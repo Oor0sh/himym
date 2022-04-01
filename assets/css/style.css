@@ -15,6 +15,7 @@
 
 @media screen and(max-width: 479px){
     #cover{
+        background-image: url('../images/coverM1.jpg');
         width: 100%;
         height: 55px;
         background-size: contain;
